@@ -1,0 +1,8 @@
+Run these commands inside the project folder:
+
+git init
+git branch -M main
+git remote add origin https://github.com/adarshshukla112233445566-ux/skillforge
+git add .
+git commit -m "Initial commit"
+git push -u origin main
